@@ -1,6 +1,6 @@
 # regression_test
  
-To run : In terminal, type npx cypress open and run the desired files
+To run : In terminal, type npx cypress open and run the desired files.( You must have npm and node install in the device)
 
 Issues found 
 
